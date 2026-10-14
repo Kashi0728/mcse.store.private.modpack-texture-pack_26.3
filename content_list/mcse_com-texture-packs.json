@@ -3,21 +3,21 @@
     {
       "id": "adventure_mcse",
       "name": "Adventure Texture Pack",
-      "description": "Are you yearning for an epic journey across the land? Look no further!\n\nThis is the perfect pack for the adventurous player, brave enough to explore a world far beyond home.",
+      "description": "Are you yearning for an epic journey across the land?\n\nLook no further!\nThis is the perfect pack for the adventurous player, brave enough to explore a world far beyond home.",
       "downloadURI": "https://github.com/Kashi0728/mcse.store.private.modpack-texture-pack_26.3/releases/download/adventure_tp_26.3/Adventure.Texture.Pack.zip",
       "imageUrl": "https://kashi0728.github.io/mcse.store.private.modpack-texture-pack_26.3/preview_images/adventure-store-icon.png"
     },
     {
       "id": "retro_mcse",
       "name": "Retro Texture Pack",
-      "description": "Bringing back the classics! 8-Bit glory finally comes to Minecraft!\n\nTextures inspired by the artstyle of early video games.",
+      "description": "Bringing back the classics!\n\n8-Bit glory finally comes to Minecraft!\nTextures inspired by the artstyle of early video games.",
       "downloadURI": "https://github.com/Kashi0728/mcse.store.private.modpack-texture-pack_26.3/releases/download/retro_tp_26.3/Retro.Texture.Pack.zip",
       "imageUrl": "https://kashi0728.github.io/mcse.store.private.modpack-texture-pack_26.3/preview_images/retro-store-icon.png"
     },
     {
       "id": "barebones_mcse",
       "name": "Bare Bones Texture Pack",
-      "description": "Do you want to live the simple life? Bare Bones does just that!\n\nA texture pack based on simplified textures and vibrant colors.",
+      "description": "Do you want to live the simple life?\n\nBare Bones does just that!\nA texture pack based on simplified textures and vibrant colors.",
       "downloadURI": "https://github.com/Kashi0728/mcse.store.private.modpack-texture-pack_26.3/releases/download/bare_bones_tp_26.3/Bare.Bones.Texture.Pack.zip",
       "imageUrl": "https://kashi0728.github.io/mcse.store.private.modpack-texture-pack_26.3/preview_images/barebones-store-icon.png"
     }
